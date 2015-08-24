@@ -1,2 +1,2 @@
-# kea-UoW
-Unit Of Work and js-data
+# js-data-uow
+Unit Of Work for js-data
