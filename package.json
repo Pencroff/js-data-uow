@@ -1,0 +1,25 @@
+{
+  "name": "js-data-uow",
+  "version": "1.0.0",
+  "description": "Unit Of Work for js-data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pencroff/js-data-uow.git"
+  },
+  "keywords": [
+    "uow",
+    "unitOfWork",
+    "repository",
+    "dataTier"
+  ],
+  "author": "Pencroff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pencroff/js-data-uow/issues"
+  },
+  "homepage": "https://github.com/Pencroff/js-data-uow#readme"
+}
