@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Pencroff/js-data-uow/issues"
   },
-  "homepage": "https://github.com/Pencroff/js-data-uow#readme"
+  "homepage": "https://github.com/Pencroff/js-data-uow#readme",
+  "dependencies": {
+    "js-data": "^2.3.0"
+  }
 }
